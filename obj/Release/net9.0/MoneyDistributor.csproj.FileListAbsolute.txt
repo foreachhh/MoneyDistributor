@@ -1,0 +1,15 @@
+E:\Projects\Visual Studio\MoneyDistributor\bin\Release\net9.0\MoneyDistributor.exe
+E:\Projects\Visual Studio\MoneyDistributor\bin\Release\net9.0\MoneyDistributor.deps.json
+E:\Projects\Visual Studio\MoneyDistributor\bin\Release\net9.0\MoneyDistributor.runtimeconfig.json
+E:\Projects\Visual Studio\MoneyDistributor\bin\Release\net9.0\MoneyDistributor.dll
+E:\Projects\Visual Studio\MoneyDistributor\bin\Release\net9.0\MoneyDistributor.pdb
+E:\Projects\Visual Studio\MoneyDistributor\obj\Release\net9.0\MoneyDistributor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Visual Studio\MoneyDistributor\obj\Release\net9.0\MoneyDistributor.AssemblyInfoInputs.cache
+E:\Projects\Visual Studio\MoneyDistributor\obj\Release\net9.0\MoneyDistributor.AssemblyInfo.cs
+E:\Projects\Visual Studio\MoneyDistributor\obj\Release\net9.0\MoneyDistributor.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio\MoneyDistributor\obj\Release\net9.0\MoneyDistributor.sourcelink.json
+E:\Projects\Visual Studio\MoneyDistributor\obj\Release\net9.0\MoneyDistributor.dll
+E:\Projects\Visual Studio\MoneyDistributor\obj\Release\net9.0\refint\MoneyDistributor.dll
+E:\Projects\Visual Studio\MoneyDistributor\obj\Release\net9.0\MoneyDistributor.pdb
+E:\Projects\Visual Studio\MoneyDistributor\obj\Release\net9.0\MoneyDistributor.genruntimeconfig.cache
+E:\Projects\Visual Studio\MoneyDistributor\obj\Release\net9.0\ref\MoneyDistributor.dll
